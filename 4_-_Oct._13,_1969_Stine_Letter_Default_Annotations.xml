@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>4 - Oct. 13, 1969 Stine Letter Default Annotations</title>
+                <author>empty</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>empty</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>empty</p>
+                <ab>
+                    <fs xml:id="CATMA_TECH_DESC">
+                        <f name="version">
+                            <string>5</string>
+                        </f>
+                    </fs>
+                </ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <fsdDecl xml:id="T_36E7782B-445C-4172-8D17-BDEDFA5A66E5" n="3PP d8942d2557b8f051ed812c3e1811fb877e761791">
+                <fsDecl xml:id="CATMA_E0A6CF83-62D1-4C6F-A3C8-4E69A41D1C3E" n="2024-05-07T00:08:28.000+0200" type="CATMA_E0A6CF83-62D1-4C6F-A3C8-4E69A41D1C3E">
+                    <fsDescr>Establish distance </fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-12971301</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+            <fsdDecl xml:id="T_D3A76270-8096-4BA3-AFDF-FAFBC157B880" n="SPEECH ACTS d8942d2557b8f051ed812c3e1811fb877e761791">
+                <fsDecl xml:id="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC" n="2024-05-07T00:08:28.000+0200" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+                    <fsDescr>Assertive</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-18762</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_94D5A3D9-121B-420A-8705-C46ADF18F41F" n="2024-05-07T00:08:28.000+0200" type="CATMA_94D5A3D9-121B-420A-8705-C46ADF18F41F">
+                    <fsDescr>Commissive</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-6683354</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_528346BE-2461-41E7-8F17-0F08BA44544C" n="2024-05-07T00:08:28.000+0200" type="CATMA_528346BE-2461-41E7-8F17-0F08BA44544C">
+                    <fsDescr>Directive</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-10747888</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_139A0994-B265-4431-B3D2-00AC38F8B2E9" n="2024-05-07T00:08:28.000+0200" type="CATMA_139A0994-B265-4431-B3D2-00AC38F8B2E9">
+                    <fsDescr>Expressive</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-1805958</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+            <fsdDecl xml:id="T_3974D091-6E5C-4780-834C-1090D88E1258" n="EMPATHY d8942d2557b8f051ed812c3e1811fb877e761791">
+                <fsDecl xml:id="CATMA_76FF6803-AA53-4696-8A83-0450D8F29779" n="2024-05-07T00:08:28.000+0200" type="CATMA_76FF6803-AA53-4696-8A83-0450D8F29779">
+                    <fsDescr>Alexithymia </fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-6226093</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_7BE992E7-7427-4AC3-AF3C-C1504567E7A2" n="2024-05-07T00:08:28.000+0200" type="CATMA_7BE992E7-7427-4AC3-AF3C-C1504567E7A2">
+                    <fsDescr>Hunting metaphor</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-14972672</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D" n="2024-05-07T00:08:28.000+0200" type="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D">
+                    <fsDescr>Lack of connection of human feelings</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-13369584</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+            <fsdDecl xml:id="T_FFE55441-5D37-4ED4-B5AB-FEDFD5C9DF69" n="LEXICAL CHOICES d8942d2557b8f051ed812c3e1811fb877e761791">
+                <fsDecl xml:id="CATMA_3E694B5B-CAE0-4AE9-B212-FDDB1CF2CEB6" n="2024-05-07T00:08:28.000+0200" type="CATMA_3E694B5B-CAE0-4AE9-B212-FDDB1CF2CEB6">
+                    <fsDescr>Misspelling</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-7601981</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_5841F043-D442-4B85-96F5-0EA2044E5BEB" n="2024-05-07T00:08:28.000+0200" type="CATMA_5841F043-D442-4B85-96F5-0EA2044E5BEB">
+                    <fsDescr>Swear words</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-1659137</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+                <fsDecl xml:id="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1" n="2024-05-07T00:08:28.000+0200" type="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1">
+                    <fsDescr>Violent lexicon</fsDescr>
+                    <fDecl xml:id="CATMA_54A5F93F-5333-3F0D-92F7-7BD5930DB9E6" name="catma_markuptimestamp">
+                        <vRange>
+                            <vColl/>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_A309D8FB-C5B8-33C9-A1B1-8CF7A5548C6A" name="catma_displaycolor">
+                        <vRange>
+                            <vColl>
+                                <string>-2030849</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                    <fDecl xml:id="CATMA_AB27F1D4-303A-3622-BB2C-72C310D0C1BF" name="catma_markupauthor">
+                        <vRange>
+                            <vColl>
+                                <string>103887516871705539670google_com</string>
+                            </vColl>
+                        </vRange>
+                    </fDecl>
+                </fsDecl>
+            </fsdDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="catma">
+                <seg ana="#CATMA_E273B70A-BCEC-4C82-AF16-CE16A0CB9359 #CATMA_B4F7B420-5468-4B4B-8CE0-4786E22021DF">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=0,29" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_E81B5FDA-9482-4568-8321-0D4D20650777 #CATMA_46460596-0CC1-4DDD-AE33-F874162B99A1">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=29,38" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_E81B5FDA-9482-4568-8321-0D4D20650777 #CATMA_478B0135-7015-49A0-ACAD-B713093340F6 #CATMA_46460596-0CC1-4DDD-AE33-F874162B99A1">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=38,47" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_E81B5FDA-9482-4568-8321-0D4D20650777 #CATMA_46460596-0CC1-4DDD-AE33-F874162B99A1">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=47,95" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_E81B5FDA-9482-4568-8321-0D4D20650777 #CATMA_46460596-0CC1-4DDD-AE33-F874162B99A1">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=95,109" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_D489EF64-440D-4065-ADFE-84289575E062">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=109,135" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_171ACDF5-9AD8-41B3-8453-2299F6950CB6 #CATMA_D489EF64-440D-4065-ADFE-84289575E062">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=135,140" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_D489EF64-440D-4065-ADFE-84289575E062">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=140,161" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_D489EF64-440D-4065-ADFE-84289575E062">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=161,168" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=168,169" type="inclusion"/>
+                <seg ana="#CATMA_A5061505-2352-4AD3-A4AF-FA8567C5E2FD #CATMA_27A4CFA5-7F27-4691-8F06-1CAD33D56DF6">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=169,226" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_A5061505-2352-4AD3-A4AF-FA8567C5E2FD #CATMA_27A4CFA5-7F27-4691-8F06-1CAD33D56DF6">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=226,232" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_6C51DAE2-C37D-4346-B9F7-E3BADA712E1D #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=232,292" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_6C51DAE2-C37D-4346-B9F7-E3BADA712E1D #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=292,318" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_82B9528E-AF95-498B-9EEA-D31462B70FA8 #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=318,354" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_82B9528E-AF95-498B-9EEA-D31462B70FA8 #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=354,360" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_93CD9DD3-4CCC-429A-8DDB-BFD4398E42EE #CATMA_82B9528E-AF95-498B-9EEA-D31462B70FA8 #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=360,371" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_82B9528E-AF95-498B-9EEA-D31462B70FA8 #CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=371,372" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456 #CATMA_52329076-7586-4A89-ACAD-A57E9A90D8E6">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=372,408" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=408,410" type="inclusion"/>
+                <seg ana="#CATMA_73EECF91-D805-48B9-AF29-F44914A24C26">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=410,418" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_73EECF91-D805-48B9-AF29-F44914A24C26">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=418,483" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_73EECF91-D805-48B9-AF29-F44914A24C26">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=483,519" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=519,520" type="inclusion"/>
+                <seg ana="#CATMA_97996259-FA2F-49AD-BA9A-DD79080899FF #CATMA_EB254C5B-A8D7-4650-8939-994BA522A241">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=520,553" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_97996259-FA2F-49AD-BA9A-DD79080899FF">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=553,554" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=554,555" type="inclusion"/>
+                <seg ana="#CATMA_EDD8F408-3311-4DEC-AB3D-1002F93F936E">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=555,571" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_EDD8F408-3311-4DEC-AB3D-1002F93F936E #CATMA_6917E800-D375-4CEA-A1A9-52437710572D">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=571,582" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_EDD8F408-3311-4DEC-AB3D-1002F93F936E #CATMA_6917E800-D375-4CEA-A1A9-52437710572D">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=582,592" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_EDD8F408-3311-4DEC-AB3D-1002F93F936E">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=592,605" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=605,606" type="inclusion"/>
+                <seg ana="#CATMA_C1D749AB-4755-4935-93DB-83C7A730856E">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=606,607" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_248CD52C-1CB6-4BAF-A66A-843F2A8AA396 #CATMA_C1D749AB-4755-4935-93DB-83C7A730856E #CATMA_D2EDFDC7-F2DE-47F5-8082-16E3DCC9F649">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=607,611" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_248CD52C-1CB6-4BAF-A66A-843F2A8AA396 #CATMA_C1D749AB-4755-4935-93DB-83C7A730856E #CATMA_D2EDFDC7-F2DE-47F5-8082-16E3DCC9F649 #CATMA_7C2C3764-FC28-4549-9F0E-D9903FE7D1A0">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=611,621" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_248CD52C-1CB6-4BAF-A66A-843F2A8AA396 #CATMA_C1D749AB-4755-4935-93DB-83C7A730856E #CATMA_D2EDFDC7-F2DE-47F5-8082-16E3DCC9F649">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=621,648" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_248CD52C-1CB6-4BAF-A66A-843F2A8AA396 #CATMA_C1D749AB-4755-4935-93DB-83C7A730856E #CATMA_D2EDFDC7-F2DE-47F5-8082-16E3DCC9F649">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=648,691" type="inclusion"/>
+                </seg>
+                <seg ana="#CATMA_C1D749AB-4755-4935-93DB-83C7A730856E">
+                    <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=691,692" type="inclusion"/>
+                </seg>
+                <ptr target="D_AAA31FB9-53DF-4106-8B61-25E9100E895D#char=692,695" type="inclusion"/>
+            </ab>
+        </body>
+        <fs xml:id="CATMA_E273B70A-BCEC-4C82-AF16-CE16A0CB9359" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-25T16:02:42.581+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_B4F7B420-5468-4B4B-8CE0-4786E22021DF" type="CATMA_E0A6CF83-62D1-4C6F-A3C8-4E69A41D1C3E">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:09:41.483+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-12971301</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_E81B5FDA-9482-4568-8321-0D4D20650777" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:09:57.975+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_46460596-0CC1-4DDD-AE33-F874162B99A1" type="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:10:22.683+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-13369584</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_478B0135-7015-49A0-ACAD-B713093340F6" type="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:10:12.929+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-2030849</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_D489EF64-440D-4065-ADFE-84289575E062" type="CATMA_94D5A3D9-121B-420A-8705-C46ADF18F41F">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:10:34.254+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-6683354</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_171ACDF5-9AD8-41B3-8453-2299F6950CB6" type="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:10:46.803+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-2030849</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_A5061505-2352-4AD3-A4AF-FA8567C5E2FD" type="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:11:10.051+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-13369584</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_27A4CFA5-7F27-4691-8F06-1CAD33D56DF6" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:11:17.414+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_6C51DAE2-C37D-4346-B9F7-E3BADA712E1D" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-25T16:03:55.418+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_B4922F57-0546-4C5D-B79A-C4BD886FE456" type="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:12:01.346+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-13369584</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_82B9528E-AF95-498B-9EEA-D31462B70FA8" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-25T16:04:06.770+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_93CD9DD3-4CCC-429A-8DDB-BFD4398E42EE" type="CATMA_3E694B5B-CAE0-4AE9-B212-FDDB1CF2CEB6">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-03-28T13:49:01.735+0100</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-7601981</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_52329076-7586-4A89-ACAD-A57E9A90D8E6" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-25T16:04:12.623+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_73EECF91-D805-48B9-AF29-F44914A24C26" type="CATMA_528346BE-2461-41E7-8F17-0F08BA44544C">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:14:24.024+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-10747888</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_97996259-FA2F-49AD-BA9A-DD79080899FF" type="CATMA_A35F4716-9AF7-4B4B-8212-BE3BC85221CC">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:16:00.155+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-18762</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_EB254C5B-A8D7-4650-8939-994BA522A241" type="CATMA_76FF6803-AA53-4696-8A83-0450D8F29779">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:15:22.189+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-6226093</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_EDD8F408-3311-4DEC-AB3D-1002F93F936E" type="CATMA_94D5A3D9-121B-420A-8705-C46ADF18F41F">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:15:48.481+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-6683354</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_6917E800-D375-4CEA-A1A9-52437710572D" type="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:15:15.882+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-2030849</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_C1D749AB-4755-4935-93DB-83C7A730856E" type="CATMA_7BE992E7-7427-4AC3-AF3C-C1504567E7A2">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:19:23.246+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-14972672</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_248CD52C-1CB6-4BAF-A66A-843F2A8AA396" type="CATMA_94D5A3D9-121B-420A-8705-C46ADF18F41F">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:19:07.704+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-6683354</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_D2EDFDC7-F2DE-47F5-8082-16E3DCC9F649" type="CATMA_51A6F904-65D8-41CF-8DE1-E37AB0B8D70D">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:18:54.558+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-13369584</string>
+            </f>
+        </fs>
+        <fs xml:id="CATMA_7C2C3764-FC28-4549-9F0E-D9903FE7D1A0" type="CATMA_4F84789A-EA83-4AA2-85F0-439A40A578E1">
+            <f name="catma_markupauthor">
+                <string>103887516871705539670google_com</string>
+            </f>
+            <f name="catma_markuptimestamp">
+                <string>2024-04-15T20:17:30.502+0200</string>
+            </f>
+            <f name="catma_displaycolor">
+                <string>-2030849</string>
+            </f>
+        </fs>
+    </text>
+</TEI>
